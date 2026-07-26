@@ -1,4 +1,4 @@
-# 🚀 System Design
+# System Design 🚀
 
 > A comprehensive knowledge base for learning, understanding, and mastering System Design concepts through notes, diagrams, case studies, and interview preparation.
 
